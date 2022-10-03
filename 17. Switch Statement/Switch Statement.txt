@@ -1,0 +1,12 @@
+SWITCH STATEMENT
+    - Kadang kita hanya butuh menggunakan kondisi sederhana di 
+      if statement, seperti hanya menggunakan perbandingan ==.
+    - Switch adalah statement percabangan yang sama dengan if, 
+      namun lebih sederhana cara pembuatannya. 
+    - Kondisi switch statement hanya untuk perbandingan ==.
+
+  SYNTAX ALTERNATIF
+    - Sama seperti if statement, switch statement juga bisa tanpa 
+      menggunakan {} (kurung kurawal).
+    - Namun diakhir switch statement, kita harus menambahkan kata 
+      kunci endswitch.

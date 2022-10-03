@@ -1,0 +1,9 @@
+OPERATOR ARITMATIKA
+    - +$variable                =>>     Positif
+    - -$variable                =>>     Negatif
+    - $variable + $variable     =>>     Penjumlahan
+    - $variable - $variable     =>>     Pengurangan
+    - $variable * $variable     =>>     Perkalian
+    - $variable / $variable     =>>     Pembagian
+    - $variable % $variable     =>>     Sisa bagi
+    - $variable ** $variable    =>>     Pangkat

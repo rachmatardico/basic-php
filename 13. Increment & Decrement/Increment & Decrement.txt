@@ -1,0 +1,9 @@
+INCREMENT & DECREMENT
+    - PHP mendukung gaya bahasa pemrograman C untuk menaikkan dan 
+      menurunkan data number sejumlah 1 angka.
+    - Ini bisa mempersingkat kita ketika ingin menaikkan data.
+  Contoh operator Increment & Decrement :
+    - $a++      =>> Post Increment      =>> Kembalikan $a lalu naikkan 1 angka. 
+    - ++$a      =>> Pre Increment       =>> Naikkan $a, lalu kembalikan $a.
+    - $a--      =>> Post Decrement      =>> Kembalikan $a lalu turunkan 1 angka.
+    - --$a      =>> Pre Decrement       =>> Turunkan $a satu angka, lalu kembalikan $a.

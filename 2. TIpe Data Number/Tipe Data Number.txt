@@ -1,0 +1,22 @@
+TIPE DATA NUMBER 
+
+Di PHP terdapat 2 jenis tipe data number :
+    - (int) Bilangan bulat decimal (base 10), 
+      hexadecimal (base 16), octal (base 8), 
+      binary (base 2).
+    - (float) Bilangan pecahan
+Di PHP kita bisa menambahkan _(garis bawah) di angka, 
+ini hanya untuk kemudahan dalam membaca, saat dijalankan 
+_(garis bawah) tersebut akan dihiraukan.
+
+Untuk angka negatif, kita bisa menggunakan tanda - (minus) 
+di depan angka.
+
+INTEGER OVERFLOW
+
+  - Secara default, kapasitas integer di PHP ada batasnya, 
+    2147483647 untuk sistem operasi 32 bit, dan 9223372036854775807 
+    untuk sistem operasi 64 bit.
+  - Jika kita membuat number integer yang melebihi nilai tersebut, 
+    maka secara otomatis tipe numbernya akan berubah menjadi floating 
+    point.

@@ -1,0 +1,20 @@
+IF STATEMENT
+    - Dalam PHP, If adalah salah satu kata kunci yang digunakan untuk 
+      percabangan. 
+    - Percabangan artinya kita bisa mengeksekusi kode program tertentu 
+      ketika suatu kondisi terpenuhi.
+    - Hampir di semua bahasa pemrograman mendukung if expression.
+
+ELSE STATEMENT
+    - Blok If akan dieksekusi ketika kondisi if bernilai true.
+    - Kadang kita ingin melakukan eksekusi program tertentu 
+      jika kondisi if bernilai false.
+    - Hal ini bisa dilakukan menggunakan else statement.
+
+ELSE IF STATEMENT
+    - Kadang dalam If, kita butuh membuat beberapa kondisi.
+    - Kasus seperti ini, di PHP kita bisa menggunakan Else If 
+      statement.
+    - Else If di PHP bisa lebih dari satu.
+    - Kode Else If di PHP bisa menggunakan "else if" atau "elseif" 
+      (digabung).

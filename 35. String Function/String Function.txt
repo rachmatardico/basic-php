@@ -1,0 +1,16 @@
+String Function 
+    - Sebelumnya saya pernah menggunakan beberapa function 
+      bawaan dari PHP untuk memanipulasi data string.
+    - Sebenarnya banyak sekali function bawaan PHP yang 
+      bisa kita gunakan untuk memanipulasi string.
+    - https://www.php.net/manual/en/ref.strings.php
+
+Contoh String Function 
+    Function                    Keterangan
+    join() / implode()      =>> Menggabungkan array menjadi string
+    explode()               =>> Memecah string menjadi array
+    strtolower()            =>> Mengubah string menjadi lowercase 
+    strtoupper()            =>> Mengubah string menjadi uppercase 
+    substr()                =>> Mengambil sebagian string 
+    trim()                  =>> Menghapus whitespace di depan dan 
+                                belakang string.

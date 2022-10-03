@@ -1,0 +1,35 @@
+TIPE DATA ARRAY
+    - Array adalah tipe data yang berisikan kosong atau banyak data.
+    - Array di PHP bisa berisikan data dengan jenis berbeda beda.
+    - Array di PHP memiliki panjang dinamis, artinya kita bisa 
+      menambah data ke array sebanyak banyaknya, tidak dibatasi 
+      kapasitasnya.
+
+OPERASI ARRAY 
+    - $array[index]             =>>      Mengakses data di array pada 
+                                         nomor index.
+    - $array[index] = $value    =>>      Mengubah data di array pada 
+                                         nomor index dengan value baru. 
+    - $array[] = $value         =>>      Menambah data di array pada 
+                                         posisi paling belakang.
+    - unset($array[index])      =>>      Menghapus data di array, index 
+                                         otomatis hilang dari array. 
+    - count($array)             =>>      Mengambil total data di array.
+
+ARRAY SEBAGAI MAP
+    - Biasanya kebanyakan bahasa pemrograman, terdapat tipe data 
+      bernama Map, yaitu asosiasi antara key dan value.
+    - Namun di PHP, Map bisa dibuat menggunakan Array. 
+    - Secara default Array akan menggunakan index (number) sebagai 
+      key dan value nya kita bisa bebas memasukkan data kedalam array. 
+    - Namun jika kita ingin, kita juga bisa mengubah index nya tidak harus 
+      menggunakan number, bisa gunakan tipe data lain, seperti string 
+      misalnya
+    - Hal tersebut terlihat seperti Map di bahasa pemrograman lain.
+
+ARRAY DIDALAM ARRAY
+    - Seperti yang dijelaskan diawal, Array di PHP bisa berisikan data 
+      apapun.
+    - Sehingga kita juga bisa membuat array di dalam array jika memang 
+      dibutuhkan.
+

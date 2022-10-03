@@ -1,0 +1,3 @@
+TIPE DATA STRING
+    - Tipe data string adalah tipe data representasi dari teks.
+    - String bisa mengandung kosong atau banyak karakter.

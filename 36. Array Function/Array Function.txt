@@ -1,0 +1,15 @@
+Array Function
+    - Di PHP juga terdapat banyak sekali function bawaan yang 
+      bisa kita gunakan untuk memanipulasi data array.
+    - https://www.php.net/manual/en/ref.array.php
+
+Contoh Array Function 
+    Function                        Keterangan 
+    array_keys()                    Mengambil semua keys milik array 
+    array_values()                  Mengambil semua values milik array 
+    array_map()                     Mengubah semua data array dengan 
+                                    callback
+    sort()                          Mengurutkan array
+    rsort()                         Mengurutkan array terbalik 
+    shuffle()                       Mengubah posisi data di array secara 
+                                    random

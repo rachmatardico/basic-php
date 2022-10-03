@@ -1,0 +1,13 @@
+OPERATOR ARRAY
+    - Di PHP Array memiliki operator khusus.
+    - Mungkin terlihat mirip dengan operator - operator 
+      sebelumnya, tapi cara kerjanya sedikit berbeda.
+  Contoh Operator Arrray :
+    - $a + $b       =>> Uninon      =>> Menggabungkan array $a dan array $b.
+    - $a == $b      =>> Equality    =>> True jika $a dan $b memiliki key-value 
+                                        sama.
+    - $a === $b     =>> Identity    =>> True jika $a dan $b memiliki key-value 
+                                        sama dan posisi sama.
+    - $a != $b      =>> Unequality  =>> True jika $a dan $ b tidak sama.
+    - $a <> $b      =>> Unequality  =>> True jika $a dan $ b tidak sama.
+    - $a === $b     =>> Nonidentity =>> True jika $a dan $ b tidak identik.

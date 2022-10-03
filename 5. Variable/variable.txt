@@ -1,0 +1,17 @@
+VARIABLE
+    - Variable adalah tempat menyimpan data sehingga bisa 
+      kita gunakan lagi di kode program selanjutnya.
+    - Di PHP variable bisa menampung berbagai jenis tipe 
+      data dan bisa berubah - ubah tipe data.
+    - Untuk membuat variable kita bisa menggunakan tanda $ 
+      (dollar) diikuti dengan nama variablenya 
+    - Penamaan variable tidak boleh mengandung spasi
+
+Variable Variables
+    - PHP memiliki fitur kemampuan variable variables, yaitu membuat 
+      variable dari string value variable.
+    - Walaupun fitur ini ada, tapi fitur ini sangat membingungkan 
+      jika digunakan secara luas, jadi disarankan untuk tidak 
+      menggunakan fitur ini kecuali memang diperlukan.
+    - Untuk membuat variable dari value variable kita bisa 
+      menggunakan $$ diikuti dengan nama variable nya.
